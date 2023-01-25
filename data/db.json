@@ -1,0 +1,62 @@
+{
+  "userlist": [
+    {
+      "id": 2,
+      "name": "Naruto",
+      "email": "naruto123@gmail.com",
+      "phone": "09987987",
+      "nickname": "Hokage",
+      "friendlist": [
+        {
+          "uuid": "1",
+          "name": "Sakura"
+        },
+        {
+          "uuid": "2",
+          "name": "Sasuke"
+        },
+        {
+          "uuid": "3",
+          "name": "Sai"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Luffy",
+      "email": "naruto123@gmail.com",
+      "phone": "09987987",
+      "nickname": "Hokage",
+      "friendlist": [
+        {
+          "uuid": "1",
+          "name": "Sakura"
+        },
+        {
+          "uuid": "2",
+          "name": "Sasuke"
+        },
+        {
+          "uuid": "3",
+          "name": "Sai"
+        }
+      ]
+    },
+    {
+      "name": "Khant Kyaw",
+      "email": "khantkaneki@gmail.com",
+      "phone": "09-78884546",
+      "nickname": "luffy@gmail.com",
+      "friendlist": [],
+      "id": 4
+    },
+    {
+      "name": "hein htet zaw",
+      "email": "heinhtetzaw121999@gmail.com",
+      "phone": "09-788308186",
+      "nickname": "luffy@gmail.com",
+      "friendlist": [],
+      "id": 5
+    }
+  ]
+}
